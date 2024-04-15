@@ -93,7 +93,8 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![image](https://github.com/Yugendaran/MathServer/assets/128135616/f42fa890-907b-40f9-a36a-9ac962f634d9)
+![image](https://github.com/andralikitha/MathServer/assets/131592130/f99a4a90-34fc-4705-95ec-64f5d4a3390a)
+
 
 
 
